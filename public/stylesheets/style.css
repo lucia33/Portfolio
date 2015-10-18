@@ -23,6 +23,12 @@ a {
   margin: 0;
 }
 
+/*Transparent navbar*/
+.navbar-transparent {
+    background:transparent;
+    background-image: none;
+    border-color: transparent;
+}
 
 html,body {
 	height:100%;
