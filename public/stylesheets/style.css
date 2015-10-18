@@ -23,6 +23,14 @@ a {
   margin: 0;
 }
 
+/*change navbar font color*/
+.navbar-inverse .navbar-nav>li>a { 
+  color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav>li>a:hover { 
+  color: #080808;
+}
+
 /*Transparent navbar*/
 .navbar-transparent {
     background:transparent;
@@ -32,9 +40,9 @@ a {
 
 html,body {
   height:100%;
-  background:center no-repeat fixed url('http://i359.photobucket.com/albums/oo33/Chang_Liu/DSC00289-2web_zpsal41xpwl.jpg');
+  background:center no-repeat fixed url('http://i359.photobucket.com/albums/oo33/Chang_Liu/DSC00352-2_zps1bdilprm.jpg');
   background-size: cover;
-  color:#444;
+  color:#FFFFFF;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
 
